@@ -1,0 +1,8 @@
+com\example\bajaj_test\config\AppProperties.class
+com\example\bajaj_test\BajajTestApp.class
+com\example\bajaj_test\config\WebClientConfig.class
+com\example\bajaj_test\service\WebhookService.class
+com\example\bajaj_test\model\GenerateResponse.class
+com\example\bajaj_test\service\H2ValidatorService.class
+com\example\bajaj_test\model\GenerateRequest.class
+com\example\bajaj_test\service\SQLService.class
